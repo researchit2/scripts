@@ -1,1 +1,1 @@
-%WINDIR%\system32\sysprep\sysprep.exe /generalize /shutdown /oobe
+c:\windows\system32\sysprep\sysprep.exe /generalize /shutdown /oobe
