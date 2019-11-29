@@ -1,0 +1,1 @@
+New-Item -Path . -Name "kilroy_was_here.log" -ItemType "file" -Value "Nothing here."
